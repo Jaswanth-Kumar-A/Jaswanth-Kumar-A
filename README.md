@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Btech in SRM University AP.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jaswanthaatukuri@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 Jaswanth-Kumar-A/Jaswanth-Kumar-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
