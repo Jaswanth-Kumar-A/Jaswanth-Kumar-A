@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jaswanth-Kumar-A
-- 👀 I’m interested in Sports and Movies.
-- 🌱 I’m currently learning Btech in SRM University AP.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in AI and Ml.
+- 🌱 I’m currently pursuing Btech in SRM University AP.
 - 📫 How to reach me jaswanthaatukuri@gmail.com
 
 
